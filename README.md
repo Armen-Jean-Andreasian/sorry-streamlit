@@ -4,7 +4,7 @@ All you need it to paste their URLs into yaml file
 
 ---
 
-Simply paste your URL into project.yaml file
+Simply paste your URL into project.yaml file (similary as I have provided my dummy projects in it)
 
 ---
 
